@@ -1,0 +1,4 @@
+• The project aim to analyse customer feedback and analysing this data to present any insights.
+• Python and BeautifulSoup used to collect all the links to the reviews and then to collect the text data on each of the individual review links.
+• Conducted the Preprocessing and Applied pretrained models like Vaders and Roberto. 
+• At last created an report that summarise all findings within a single PowerPoint slide.
